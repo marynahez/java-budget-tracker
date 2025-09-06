@@ -12,14 +12,15 @@ The architecture of the project is shown in the UML diagram:
 ![UML Diagram](FinalUmlProject.png)
 
 ## Screenshots
+
 **Main Menu**  
-![Main Menu](screenshot1.png)
+<img src="screenshot1.png" alt="Main Menu" width="500"/>
 
 **Editing Monthly Data**  
-![Editing Data](screenshot2.png)
+<img src="screenshot2.png" alt="Editing Data" width="500"/>
 
 **Financial Tips**  
-![Financial Tips](screenshot3.png)
+<img src="screenshot3.png" alt="Financial Tips" width="500"/>
 
 ## How to run
 1. Open the project in IntelliJ IDEA (or any Java IDE).  
